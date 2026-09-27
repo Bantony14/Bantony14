@@ -75,19 +75,6 @@ E-commerce frontend built with React with responsive UI and reusable components.
 
 ---
 
-## 🧪 Testing
-
-Currently learning and applying frontend testing with:
-
-- Jest
-- React Testing Library
-- Mocking APIs
-- Axios mocking
-- User interaction testing
-- Async testing
-
----
-
 ## 📚 Currently Learning
 
 - TypeScript
