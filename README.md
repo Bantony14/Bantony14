@@ -117,12 +117,6 @@ Currently working with frontend testing using:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bantony14&show_icons=true&hide_border=true&theme=github_dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantony14&layout=compact&hide_border=true&theme=github_dark" height="170" />
-</p>
 
 ---
 
