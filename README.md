@@ -73,12 +73,6 @@ tenants, rooms, rent payments, receipts and administrative operations.
 ### 🛒 FashionKart
 E-commerce frontend built with React with responsive UI and reusable components.
 
-### 👗 Saree Kart
-Responsive e-commerce interface focused on product browsing and user-friendly UI.
-
-### 🎬 Movie Booking
-Movie booking application with interactive frontend components and API integration.
-
 ---
 
 ## 🧪 Testing
