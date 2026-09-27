@@ -96,13 +96,44 @@ Currently learning and applying frontend testing with:
 
 ## 📚 Currently Learning
 
-```text
-TypeScript
-     ↓
-Advanced React
-     ↓
-Frontend Testing
-     ↓
-Node.js / Express
-     ↓
-SQL
+- TypeScript
+- Advanced React
+- Frontend Testing
+- Node.js & Express.js
+- SQL
+
+---
+
+## 🧪 Testing
+
+Currently working with frontend testing using:
+
+- Jest
+- React Testing Library
+- API Mocking
+- Axios Mocking
+- User Event Testing
+- Async Testing
+
+---
+
+## 📊 GitHub Stats
+
+![Bantony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bantony14&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bantony14&layout=compact&theme=github_dark)
+
+---
+
+## 🤝 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://bantony-portfolio.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bantony-singh-2a7717428/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Bantony14-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bantony14)
+
+---
+
+⭐ Thanks for visiting my profile!
+
