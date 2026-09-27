@@ -39,6 +39,7 @@ API integration, and real-world functionality.
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 ---
 
@@ -61,8 +62,7 @@ tenants, rooms, rent payments, receipts and administrative operations.
 - 📧 Email Notifications
 - ☁️ Cloudinary Integration
 - 🔎 Search & Filtering
-- 📄 Pagination
-- 📊 Dashboard Charts
+
 
 **Tech:** React • Redux Toolkit • Tailwind CSS • Node.js • Express.js • MongoDB • JWT • Razorpay
 
