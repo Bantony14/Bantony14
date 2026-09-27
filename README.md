@@ -117,6 +117,14 @@ Currently working with frontend testing using:
 
 ---
 
+## 📌 What I'm Working On
+
+- 🚀 Building and improving **RentFlow**
+- ⚛️ Deepening my **React** skills
+- 🧪 Practicing **Jest & React Testing Library**
+- 📘 Learning **TypeScript**
+- 🗄️ Learning **SQL** for full-stack development
+---
 
 ---
 
